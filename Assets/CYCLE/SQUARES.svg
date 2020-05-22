@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="479px"
+	 height="644px" viewBox="0 0 479 644" enable-background="new 0 0 479 644" xml:space="preserve">
+<g id="Background">
+</g>
+<g id="Field_ground">
+</g>
+<g id="Livello_1">
+	<g>
+		<polygon fill="#4D3017" points="152,153 12.66,153 0,139.276 12.66,13.72 139.304,0.002 152,13.716 		"/>
+		<rect fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="152,317 12.66,317 0,303.044 12.66,177.371 139.304,163.596 152,177.251 		"/>
+		<rect y="164" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="315,317 176.196,317 163.535,303.044 176.196,177.371 302.571,163.596 315,177.251 		"/>
+		<rect x="164" y="164" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="479,317 339.731,317 327.07,303.044 339.731,177.371 466.339,163.596 479,177.251 		"/>
+		<rect x="327" y="164" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="152,480 12.66,480 0,466.312 12.66,340.772 139.304,327.063 152,340.786 		"/>
+		<rect y="327" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="315,480 176.196,480 163.535,466.312 176.196,340.772 302.571,327.063 315,340.786 		"/>
+		<rect x="164" y="327" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="479,480 339.731,480 327.07,466.312 339.731,340.772 466.339,327.063 479,340.786 		"/>
+		<rect x="327" y="327" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="152,644 12.66,644 0,630.079 12.66,504.424 139.304,490.656 152,504.321 		"/>
+		<rect y="491" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="315,644 176.196,644 163.535,630.079 176.196,504.424 302.571,490.656 315,504.321 		"/>
+		<rect x="164" y="491" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="479,644 339.731,644 327.07,630.079 339.731,504.424 466.339,490.656 479,504.321 		"/>
+		<rect x="327" y="491" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="315,153 176.196,153 163.535,139.276 176.196,13.72 302.571,0.002 315,13.716 		"/>
+		<rect x="164" fill="#67401E" width="139" height="139"/>
+	</g>
+	<g>
+		<polygon fill="#4D3017" points="479,153 339.731,153 327.07,139.276 339.731,13.72 466.339,0.002 479,13.716 		"/>
+		<rect x="327" fill="#67401E" width="139" height="139"/>
+	</g>
+</g>
+</svg>
